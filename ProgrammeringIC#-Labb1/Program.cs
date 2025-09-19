@@ -1,6 +1,6 @@
 ﻿Console.WriteLine("Labb 1 - Hitta tal i sträng med tecken\r\n");
 
-Console.WriteLine("Skriv in en text som innehåller minst tre siffror: ");
+Console.WriteLine("Skriv in en text som innehåller minst två siffror: ");
 
 string userInput = Console.ReadLine();
 Console.WriteLine();
